@@ -1,0 +1,51 @@
+
+.container {
+  font-size: 16px;
+  font-family: 'ABeeZee', sans-serif;
+  font-weight: bold;
+  text-align: left;
+  line-height: 1.5;
+  color: #000000;
+  background-color: #c7f0db;
+  padding: 1%;
+}
+
+.content{
+  line-height: 2;
+}
+
+.image{
+  border-radius: 50%;
+  width: 160px;
+  margin: 5px;
+}
+
+ .new {
+  border-top: 8px dotted #42e6a4;
+  margin: 3% 45%;
+}
+
+.headname{
+  font-size: 2.5rem;
+  color: #2c7873;
+  line-height: 2;
+
+}
+
+.nested_list p{
+  font-size: 14px;
+  text-decoration: underline;
+  color: #272727;
+}
+
+.skills-table td{
+  padding: 7px;
+}
+
+strong{
+  color: #2c7873;
+}
+
+.email {
+  color: #2c7873;
+}
